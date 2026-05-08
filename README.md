@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aashutosh%20Desale&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Bootstrapped%20Founder%20%7C%20SaaS%20Builder%20%7C%20Cloud%20%26%20AI%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aashutosh%20Desale&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Bootstrapped%20Founder%20%7C%20SaaS%20Builder%20%7C%20Cloud%20%2B%20AI%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&random=false&width=700&lines=Hey+%F0%9F%91%8B+I'm+Aashutosh+Desale;Bootstrapped+Founder+%7C+CEO+%26+Co-founder+%F0%9F%9A%80;Building+Scalable+SaaS+from+0+to+1+%E2%9A%A1;Cloud+Infrastructure+%7C+Distributed+Systems;AI-Native+Products+%7C+Shipping+in+Production" alt="Typing SVG" />
 
