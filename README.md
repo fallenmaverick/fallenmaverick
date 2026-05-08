@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aashutosh%20Desale&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CEO%20%26%20Co-founder%20%40%20ArthaOps%20%7C%20Cloud%20Cost%20Intelligence%20%7C%20Builder&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&random=false&width=700&lines=Hey+%F0%9F%91%8B+I'm+Aashutosh+Desale;CEO+%26+Co-founder+%40+ArthaOps+%F0%9F%9A%80;India-first+Cloud+Cost+Intelligence+Engine;Autonomously+Slashing+AWS+Bills+%E2%9A%A1;Bootstrapped+Builder+%7C+Shipping+in+Production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&random=false&width=700&lines=Hey+%F0%9F%91%8B+I'm+Aashutosh+Desale;Bootstrapped+Founder+%7C+CEO+%26+Co-founder+%F0%9F%9A%80;Building+Scalable+SaaS+from+0+to+1+%E2%9A%A1;Cloud+Infrastructure+%7C+Distributed+Systems;AI-Native+Products+%7C+Shipping+in+Production" alt="Typing SVG" />
 
 <br/>
 
@@ -28,11 +28,11 @@
 
 <br/>
 
-- 🏗️ &nbsp; Building **ArthaOps** — India's first Autonomous Cloud Cost Intelligence Engine
-- 🤖 &nbsp; Shipped **150+ intelligent detectors** that find & fix AWS waste autonomously
+- 🚀 &nbsp; Bootstrapped founder building **scalable SaaS products** from 0 to 1
+- ☁️ &nbsp; Deep expertise in **cloud infrastructure**, distributed systems & backend architecture
 - 💬 &nbsp; Ask me about &nbsp; <img src="https://skillicons.dev/icons?i=python&theme=dark" width="20" style="vertical-align:middle"/> **Python** &nbsp; <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="20" style="vertical-align:middle"/> **FastAPI** &nbsp; <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="20" style="vertical-align:middle"/> **Next.js**
-- ☁️ &nbsp; Obsessed with **cloud cost optimization** and **autonomous infrastructure**
-- 🌱 &nbsp; Currently scaling ArthaOps to production — [arthaops.com](https://arthaops.com)
+- 🧠 &nbsp; Passionate about **developer tools**, automation, and systems that think for themselves
+- 🌱 &nbsp; Currently exploring **AI-native product design** and autonomous backend agents
 - ⚡ &nbsp; Fun fact: I debug with `print()` and ship anyway 😄
 
 <br/><br/><br/><br/>
@@ -106,10 +106,10 @@
 
 ## 🎯 Current Goals
 
-- 🚀 Launch **ArthaOps** to first 100 paying customers
-- 🤖 Scale autonomous detectors to **200+** across AWS, GCP, and Azure
-- 💡 Open-source the **ArthaOps Detector SDK** for the community
-- 🏆 Build India's most trusted **Cloud FinOps** platform
+- 🚀 Ship **production-grade SaaS** products that solve real problems
+- 🤖 Build more **AI-native tools** and autonomous backend systems
+- 💡 Contribute to **open-source** and give back to the dev community
+- 🏆 Keep building, keep shipping — one meaningful product at a time
 
 ---
 
