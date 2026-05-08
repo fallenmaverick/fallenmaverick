@@ -34,38 +34,6 @@
 
 ---
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ⚡  aashutosh@maverick  ~  zsh                             [root]  │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  $ whoami                                                           │
-│    → Aashutosh Desale  ·  Bootstrapped Founder & CEO               │
-│                                                                     │
-│  $ cat passion.txt                                                  │
-│    → Building AI-native SaaS that eliminates human toil            │
-│                                                                     │
-│  $ ls expertise/                                                    │
-│    cloud-infra/   distributed-systems/   ai-agents/   saas/        │
-│                                                                     │
-│  $ echo $PHILOSOPHY                                                 │
-│    → "Ship fast. Iterate faster. Never stop building."             │
-│                                                                     │
-│  $ uptime                                                           │
-│    → 4+ years in production  ·  55+ repos  ·  0 regrets           │
-│                                                                     │
-│  $ echo $STATUS                                                     │
-│    → 🚀 Heads-down. Zero to one. No days off.                      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -177,14 +145,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
-
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img src="github-metrics.svg" width="100%" alt="GitHub Metrics"/>
-</div>
 
 ---
 
