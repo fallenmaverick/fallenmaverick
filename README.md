@@ -285,7 +285,7 @@ class Aashutosh:
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:surekhashete7@gmail.com">
+<a href="mailto:ashutosh.seth9@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
