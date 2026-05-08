@@ -77,7 +77,7 @@
 - 🤖 &nbsp; Building **AI-native tools** that automate what humans shouldn't have to do
 - 🧠 &nbsp; Obsessed with **developer experience**, clean APIs, and systems that scale silently
 - 🌏 &nbsp; On a mission to ship **India-first software** that competes globally
-- 💬 &nbsp; Ask me about <img src="https://skillicons.dev/icons?i=python&theme=dark" width="18" style="vertical-align:middle"/> **Python**, <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="18" style="vertical-align:middle"/> **FastAPI**, <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="18" style="vertical-align:middle"/> **Next.js**, cloud cost & SaaS architecture
+- 💬 &nbsp; Ask me about <img src="https://skillicons.dev/icons?i=python&theme=dark" width="18" style="vertical-align:middle"/> **Python**, <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="18" style="vertical-align:middle"/> **FastAPI**, <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="18" style="vertical-align:middle"/> **Next.js**, distributed systems & SaaS architecture
 - ⚡ &nbsp; Fun fact: I debug with `print()`, ship on Fridays, and sleep fine
 
 <br/><br/><br/><br/>
@@ -111,7 +111,7 @@
       <br/><br/>
       <strong>☁️ Cloud & DevOps</strong>
       <br/><br/>
-      <sub>AWS · Docker · Redis · PostgreSQL · CI/CD<br/>Infrastructure automation · Cost intelligence · FinOps</sub>
+      <sub>AWS · Docker · Redis · PostgreSQL · CI/CD<br/>Infrastructure automation · Scalable deployments · DevOps</sub>
       <br/><br/>
     </td>
     <td align="center" width="33%">
@@ -120,7 +120,7 @@
       <br/><br/>
       <strong>🎨 Product & SaaS</strong>
       <br/><br/>
-      <sub>Next.js · Tailwind · Framer Motion · Billing<br/>Zero-to-one launches · Premium SaaS UX · Auth</sub>
+      <sub>Next.js · Tailwind · Framer Motion · Payments<br/>Zero-to-one launches · Premium SaaS UX · Auth</sub>
       <br/><br/>
     </td>
   </tr>
@@ -264,7 +264,7 @@ class Aashutosh:
 | 🔬 Area | 💡 Diving Into |
 |:---|:---|
 | 🤖 **AI Agents** | LLM-powered systems that take real, autonomous actions |
-| ☁️ **FinOps** | Cloud cost intelligence — turn billing chaos into insight |
+| ☁️ **Cloud Architecture** | Designing resilient, multi-region infrastructure that scales |
 | 🔐 **Auth & Zero Trust** | Institutional-grade auth without the enterprise bloat |
 | 📦 **Platform Engineering** | Multi-tenant SaaS architecture that scales silently |
 | 🧪 **Async Systems** | Event-driven pipelines with deterministic guarantees |
