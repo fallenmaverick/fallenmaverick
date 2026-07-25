@@ -151,17 +151,6 @@ class Aashutosh:
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=fallenmaverick&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true"/>
-<img alt="GitHub Streak" width="49%" src="https://streak-stats.demolab.com/?user=fallenmaverick&theme=tokyonight&hide_border=true&border_radius=8"/>
-
-</div>
-
----
-
 <!-- Contribution snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fallenmaverick/fallenmaverick/output/github-contribution-grid-snake-dark.svg"/>
