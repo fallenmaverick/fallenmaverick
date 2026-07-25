@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:5e6ad2&height=220&section=header&text=Aashutosh%20Desale&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Bootstrapped%20Founder%20%7C%20SaaS%20Builder%20%7C%20Cloud%20%2B%20AI%20Enthusiast&descAlignY=62&descSize=18&stroke=5e6ad2&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:5e6ad2&height=220&section=header&text=Aashutosh%20Desale&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Bootstrapped%20Founder%20%7C%20AI-Native%20Builder%20%7C%20Stealth%20Mode%20%F0%9F%94%92&descAlignY=62&descSize=18&stroke=5e6ad2&strokeWidth=2" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=5E6AD2&center=true&vCenter=true&random=false&width=750&height=60&lines=I+build+things+that+ship+to+production+%F0%9F%9A%80;Cloud+Infrastructure+%7C+Distributed+Systems+%E2%9A%A1;AI-Native+SaaS+%7C+From+Zero+to+Revenue+%F0%9F%92%B0;Bootstrapped+%7C+Profitable+%7C+Obsessed+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=5E6AD2&center=true&vCenter=true&random=false&width=820&height=60&lines=I+build+systems+that+run+without+me+%F0%9F%A4%96;Autonomous+Architecture+%7C+Distributed+Systems+%E2%9A%A1;AI-Native+SaaS+%7C+Zero+to+Revenue+%F0%9F%92%B0;Bootstrapped+%7C+Profitable+%7C+Obsessed+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
@@ -16,9 +16,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fallenmaverick&label=Profile+Views&color=5e6ad2&style=for-the-badge)](https://github.com/fallenmaverick)
 [![Followers](https://img.shields.io/github/followers/fallenmaverick?label=Followers&style=for-the-badge&color=5e6ad2&labelColor=0d1117)](https://github.com/fallenmaverick?tab=followers)
-[![Repos](https://img.shields.io/badge/Repos-55%2B-5e6ad2?style=for-the-badge&labelColor=0d1117)](https://github.com/fallenmaverick?tab=repositories)
-[![Location](https://img.shields.io/badge/India-🇮🇳-orange?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/maverick-cloud)
-[![Open to](https://img.shields.io/badge/Open%20To-Collabs%20%26%20Consulting-brightgreen?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/maverick-cloud)
+[![Repos](https://img.shields.io/badge/Repos-74%2B-5e6ad2?style=for-the-badge&labelColor=0d1117)](https://github.com/fallenmaverick?tab=repositories)
+[![Location](https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-orange?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/maverick-cloud)
+[![Status](https://img.shields.io/badge/Status-Stealth%20Mode%20%F0%9F%94%92-blueviolet?style=for-the-badge&labelColor=0d1117)](https://github.com/fallenmaverick)
 
 </div>
 
@@ -41,20 +41,20 @@
 <br/>
 
 - 🚀 &nbsp; Bootstrapped founder — shipping **production SaaS** from 0 to revenue
-- ☁️ &nbsp; Deep expertise in **cloud infrastructure**, distributed systems & async architecture
-- 🤖 &nbsp; Building **AI-native tools** that automate what humans shouldn't have to do
-- 🧠 &nbsp; Obsessed with **developer experience**, clean APIs, and systems that scale silently
+- 🤖 &nbsp; Building **autonomous AI systems** that act, not just suggest
+- 🧠 &nbsp; Deep in **platform engineering**, multi-tenant architecture & async design
+- ⚡ &nbsp; Obsessed with **developer experience**, clean APIs, and systems that scale silently
 - 🌏 &nbsp; On a mission to ship **India-first software** that competes globally
 - 💬 &nbsp; Ask me about <img src="https://skillicons.dev/icons?i=python&theme=dark" width="18" style="vertical-align:middle"/> **Python**, <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="18" style="vertical-align:middle"/> **FastAPI**, <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="18" style="vertical-align:middle"/> **Next.js**, distributed systems & SaaS architecture
-- ⚡ &nbsp; Fun fact: I debug with `print()`, ship on Fridays, and sleep fine
+- 🔒 &nbsp; Currently in **stealth mode** — something big is loading
 
 <br/><br/><br/><br/>
 
 <div align="left">
 
-| 🏗️ Building | ☁️ Cloud | 🎯 Stage | 📍 Base |
+| 🏗️ Building | ⚙️ Speciality | 🎯 Stage | 📍 Base |
 |:---:|:---:|:---:|:---:|
-| SaaS + AI Agents | AWS / Cloud-Native | Bootstrapped, Revenue-Focused | India 🇮🇳 |
+| AI-Native SaaS | Platform Engineering | Bootstrapped · Revenue-Focused | India 🇮🇳 |
 
 </div>
 
@@ -77,9 +77,9 @@
       <br/>
       <img src="https://skillicons.dev/icons?i=aws,docker,redis&theme=dark" />
       <br/><br/>
-      <strong>☁️ Cloud & DevOps</strong>
+      <strong>🧱 Platform & Systems</strong>
       <br/><br/>
-      <sub>AWS · Docker · Redis · PostgreSQL · CI/CD<br/>Infrastructure automation · Scalable deployments · DevOps</sub>
+      <sub>Distributed systems · Event-driven pipelines · Worker queues<br/>Multi-tenant infra · Async architecture · Zero-downtime deploys</sub>
       <br/><br/>
     </td>
     <td align="center" width="33%">
@@ -148,6 +148,28 @@
 
 ---
 
+## 🔒 Currently: Building in Stealth
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   PROJECT  ···  [REDACTED]                                   ║
+║   TYPE     ···  Autonomous · Production-Grade · AI-Native    ║
+║   STATUS   ···  ████████████████████░  95%                   ║
+║   ETA      ···  Soon™                                        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+> *Building something that changes how operators think.*  
+> *Not loud about it. Just shipping.*
+
+</div>
+
+---
+
 ## 🏆 Trophy Case
 
 <div align="center">
@@ -160,7 +182,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fallenmaverick&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fallenmaverick&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=fallenmaverick&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fallenmaverick&theme=tokyonight"/>
@@ -196,20 +218,22 @@ class Aashutosh:
     location   = "India 🇮🇳"
     timezone   = "Asia/Kolkata — always shipping"
 
-    focus      = ["SaaS", "Cloud Infrastructure", "AI-Native Products", "Developer Tools"]
+    focus      = ["Autonomous AI Systems", "Platform Engineering", "SaaS", "Developer Tools"]
     languages  = ["Python", "TypeScript", "SQL", "Bash"]
     databases  = ["PostgreSQL", "Redis"]
-    cloud      = ["AWS", "Docker", "Railway", "Vercel"]
+    infra      = ["AWS", "Docker", "Railway", "Vercel"]
+
+    building   = "🔒 [REDACTED] — you'll see it soon"
 
     principles = [
+        "Build systems that outwork you",
+        "Autonomous > manual, always",
         "Ship fast — iterate even faster",
-        "Simple always beats clever",
-        "Build systems that scale beyond you",
         "Solve real pain, not imaginary problems",
         "Zero to one > one to n",
     ]
 
-    currently  = "🚀 Heads-down building. No noise. Just execution."
+    currently  = "🤫 Deep in stealth. Something big. Just watch."
 
     def mindset(self) -> str:
         return "Every commit is a bet on the future. Make it count."
@@ -223,11 +247,11 @@ class Aashutosh:
 
 | 🔬 Area | 💡 Diving Into |
 |:---|:---|
-| 🤖 **AI Agents** | LLM-powered systems that take real, autonomous actions |
-| ☁️ **Cloud Architecture** | Designing resilient, multi-region infrastructure that scales |
+| 🤖 **AI Agent Systems** | Multi-agent orchestration, LLM pipelines, autonomous decision loops |
+| 🧱 **Platform Engineering** | Multi-tenant SaaS that scales silently across thousands of users |
 | 🔐 **Auth & Zero Trust** | Institutional-grade auth without the enterprise bloat |
-| 📦 **Platform Engineering** | Multi-tenant SaaS architecture that scales silently |
-| 🧪 **Async Systems** | Event-driven pipelines with deterministic guarantees |
+| 🌊 **Async & Event-Driven** | Deterministic async pipelines with Redis + Celery at scale |
+| 🛠️ **Developer Tooling** | Internal tools and SDKs that 10x engineering velocity |
 
 </div>
 
