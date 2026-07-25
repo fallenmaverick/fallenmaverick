@@ -31,6 +31,10 @@
 |:---:|:---:|:---:|:---:|
 | AI-Native SaaS | Platform Engineering | Pre-launch | Kolkata, India |
 
+<div align="center">
+<img alt="Idea → Build → Ship → Repeat" src="https://raw.githubusercontent.com/fallenmaverick/fallenmaverick/main/assets/flow.jpg" width="100%"/>
+</div>
+
 ---
 
 ## Building in Stealth
