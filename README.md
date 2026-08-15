@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Aashutosh Desale — Building in stealth · Kolkata, India" src="https://raw.githubusercontent.com/fallenmaverick/fallenmaverick/main/assets/header.jpg" width="100%"/>
+<img alt="Aashutosh Desale — Building in stealth · Amalner, India" src="https://raw.githubusercontent.com/fallenmaverick/fallenmaverick/main/assets/header.jpg" width="100%"/>
 </div>
 
 <br/>
@@ -115,7 +115,7 @@
 class Aashutosh:
 
     role       = "Bootstrapped Founder & CEO"
-    location   = "Kolkata, India"
+    location   = "Amalner, India"
     timezone   = "UTC+5:30"
 
     focus      = ["Autonomous AI Systems", "Platform Engineering", "SaaS", "Developer Tools"]
