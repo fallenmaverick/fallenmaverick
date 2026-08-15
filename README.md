@@ -29,7 +29,7 @@
 
 | Building | Speciality | Stage | Base |
 |:---:|:---:|:---:|:---:|
-| AI-Native SaaS | Platform Engineering | Pre-launch | Kolkata, India |
+| AI-Native SaaS | Platform Engineering | Pre-launch | Amalner, India |
 
 <div align="center">
 <img alt="Idea → Build → Ship → Repeat" src="https://raw.githubusercontent.com/fallenmaverick/fallenmaverick/main/assets/flow.jpg" width="100%"/>
