@@ -155,6 +155,16 @@ class Aashutosh:
 
 ---
 
+## Repo Activity
+
+<div align="center">
+
+![Alt](https://repobeats.axiom.co/api/embed/abf4607d89974eeb8abe97060b5c4996170d4a0e.svg "Repobeats analytics image")
+
+</div>
+
+---
+
 <!-- Contribution snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fallenmaverick/fallenmaverick/output/github-contribution-grid-snake-dark.svg"/>
